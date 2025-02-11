@@ -4,7 +4,7 @@ This project performs customer segmentation using K-Means clustering on a datase
 
 ### Technologies Used ###
 ####
--Python
+- Python
 -Pandas & NumPy (Data Handling & Preprocessing)
 -Matplotlib & Seaborn (Data Visualization)
 -K-Means Clustering (Machine Learning)
